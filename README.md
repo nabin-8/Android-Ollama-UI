@@ -92,7 +92,9 @@ To run the DeepSeek-r1 model:
     ```sh
     ./ollama run deepseek-r1:1.5b
     ```
-![Ollama Termux Setup](./assets/ollama-termux.jpeg)
+<div style="display:flex; align-items:center;justify-content:center;">
+<img style="width:40%;" src="./assets/ollama-termux.jpeg"/>
+</div>
 
 ### Optional Cleanup
 
@@ -136,7 +138,10 @@ Alternatively, you can use the pre-built APK available in my GitHub repository:
     Transfer the APK to your Android device and install it.
 
 Once installed, you can use the app to interact with the Ollama server running on your device.
-![Ollama Termux Setup](./assets/phone-img.jpeg)
+
+<div style="display:flex; align-items:center;justify-content:center;">
+<img style="width:40%;" src="./assets/phone-img.jpeg"/>
+</div>
 
 ## Conclusion
 
