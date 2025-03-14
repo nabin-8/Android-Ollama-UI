@@ -92,7 +92,7 @@ To run the DeepSeek-r1 model:
     ```sh
     ./ollama run deepseek-r1:1.5b
     ```
-<div style="display:flex; align-items:center;justify-content:center;">
+<div style="display:flex !important; align-items:center !important;justify-content:center !important;">
 <img style="width:40%;" src="./assets/ollama-termux.jpeg"/>
 </div>
 
@@ -139,7 +139,7 @@ Alternatively, you can use the pre-built APK available in my GitHub repository:
 
 Once installed, you can use the app to interact with the Ollama server running on your device.
 
-<div style="display:flex; align-items:center;justify-content:center;">
+<div style="display:flex !important; align-items:center !important;justify-content:center !important;">
 <img style="width:40%;" src="./assets/phone-img.jpeg"/>
 </div>
 
